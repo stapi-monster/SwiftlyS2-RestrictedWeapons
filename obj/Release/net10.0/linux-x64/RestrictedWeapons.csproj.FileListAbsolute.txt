@@ -1,0 +1,17 @@
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\resources\templates\config.template.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\resources\translations\en.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\resources\translations\ru.jsonc
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\RestrictedWeapons.deps.json
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\RestrictedWeapons.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\RestrictedWeapons.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\build\net10.0\linux-x64\SQLite.Interop.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.csproj.AssemblyReference.cache
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.AssemblyInfoInputs.cache
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.AssemblyInfo.cs
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.csproj.CoreCompileInputs.cache
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\Restrict.85FDFF59.Up2Date
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\refint\RestrictedWeapons.dll
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\RestrictedWeapons.pdb
+C:\Users\molch\OneDrive\Desktop\plugins\plugins\RestrictedWeapons\obj\Release\net10.0\linux-x64\ref\RestrictedWeapons.dll
